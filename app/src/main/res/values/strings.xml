@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Football Match Schedule</string>
+    <string name="vs">VS</string>
+    <string name="forward">Forward</string>
+    <string name="defense">Defense</string>
+    <string name="goalkeeper">Goal Keeper</string>
+    <string name="midfield">Midfield</string>
+    <string name="lineups">Lineups</string>
+    <string name="shots">Shots</string>
+    <string name="goals">Goals</string>
+    <string name="pastEvents">Past Event</string>
+    <string name="nextEvents">Next Event</string>
+    <string name="favorites">Favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favotrites">favorites</string>
+</resources>
